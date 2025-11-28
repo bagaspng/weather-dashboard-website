@@ -1,14 +1,9 @@
 # Weather Dashboard
+![Screenshot_28-11-2025_231840_127 0 0 1](https://github.com/user-attachments/assets/aab200e9-920f-441c-9c2b-73e739dc05db)
+<img width="1755" height="940" alt="image" src="https://github.com/user-attachments/assets/8b470a4a-1f77-477f-87f2-a03bba6174fc" />
 
-## Overview
-The Weather Dashboard is a web application that provides users with current weather data and a 5-day forecast for any city. The application is designed with a responsive layout and a glass UI effect, making it visually appealing and user-friendly.
 
-## Features
-- Search for cities to get current weather information and forecasts.
-- Toggle between Celsius and Fahrenheit temperature units.
-- Dark and light theme options for better accessibility.
-- Displays humidity, wind speed, and cloud coverage.
-- 5-day weather forecast with daily predictions.
+
 
 ## File Structure
 ```
@@ -31,33 +26,10 @@ weather-dashboard
 │   └── manifest.json       # Web app manifest
 ├── test
 │   └── weather.spec.js     # Unit tests
-├── package.json            # npm configuration
 ├── .gitignore              # Files to ignore in version control
-├── .eslintrc.json          # ESLint configuration
 └── README.md               # Project documentation
 ```
 
-## Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/weather-dashboard.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd weather-dashboard
-   ```
-3. Install the dependencies:
-   ```
-   npm install
-   ```
-
-## Usage
-1. Open `src/index.html` in your web browser.
-2. Use the search bar to find a city and view its weather information.
-3. Toggle between temperature units and themes as desired.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 ## License
 This project is licensed under the MIT License.
