@@ -1,5 +1,7 @@
 # Weather Dashboard
 ![Screenshot_28-11-2025_231840_127 0 0 1](https://github.com/user-attachments/assets/aab200e9-920f-441c-9c2b-73e739dc05db)
+<img width="1755" height="940" alt="image" src="https://github.com/user-attachments/assets/8b470a4a-1f77-477f-87f2-a03bba6174fc" />
+
 
 
 
