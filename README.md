@@ -29,7 +29,3 @@ weather-dashboard
 ├── .gitignore              # Files to ignore in version control
 └── README.md               # Project documentation
 ```
-
-
-## License
-This project is licensed under the MIT License.
