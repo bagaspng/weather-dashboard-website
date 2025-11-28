@@ -33,7 +33,6 @@ export async function fetchForecast(city, unit) {
   return processForecastData(data);
 }
 
-// AJAX (XMLHttpRequest) untuk autocomplete search city
 export function searchCitiesAjax(query, onSuccess, onError) {
   if (!query || query.length < 2) {
     onSuccess([]);
