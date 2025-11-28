@@ -1,0 +1,65 @@
+{
+  "sampleWeatherData": {
+    "location": {
+      "name": "Sample City",
+      "country": "Sample Country",
+      "lat": 12.34,
+      "lon": 56.78
+    },
+    "current": {
+      "temperature": 25,
+      "feels_like": 27,
+      "humidity": 60,
+      "wind_speed": 5,
+      "description": "Clear sky",
+      "icon": "01d"
+    },
+    "forecast": [
+      {
+        "date": "2023-10-01",
+        "temperature": {
+          "min": 20,
+          "max": 28
+        },
+        "description": "Partly cloudy",
+        "icon": "02d"
+      },
+      {
+        "date": "2023-10-02",
+        "temperature": {
+          "min": 21,
+          "max": 29
+        },
+        "description": "Sunny",
+        "icon": "01d"
+      },
+      {
+        "date": "2023-10-03",
+        "temperature": {
+          "min": 22,
+          "max": 30
+        },
+        "description": "Rainy",
+        "icon": "09d"
+      },
+      {
+        "date": "2023-10-04",
+        "temperature": {
+          "min": 19,
+          "max": 27
+        },
+        "description": "Thunderstorms",
+        "icon": "11d"
+      },
+      {
+        "date": "2023-10-05",
+        "temperature": {
+          "min": 18,
+          "max": 26
+        },
+        "description": "Clear sky",
+        "icon": "01d"
+      }
+    ]
+  }
+}
